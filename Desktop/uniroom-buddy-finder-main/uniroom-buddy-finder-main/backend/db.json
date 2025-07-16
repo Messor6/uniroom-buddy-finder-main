@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "name": "teste",
+      "email": "teste@backend.com",
+      "city": "Porto Alegre",
+      "university": "PUCRS",
+      "course": "Desenvolvimento Full Stack",
+      "id": 1752624107142
+    },
+    {
+      "name": "Ana Maria",
+      "email": "Maria@teste2.com",
+      "city": "Sao Paulo",
+      "university": "FGV",
+      "course": "Economia",
+      "id": 1752624331424
+    }
+  ]
+}
