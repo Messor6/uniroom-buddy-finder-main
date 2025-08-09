@@ -16,7 +16,7 @@ const Index = () => {
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
-    // TODO: Implementar autenticação via API quando Supabase for conectado
+    // TODO: Implementar autenticação via API
     console.log('Login/Cadastro:', { email, password, name, isLogin });
     // Por enquanto, redirecionar para a página principal
     navigate('/dashboard');

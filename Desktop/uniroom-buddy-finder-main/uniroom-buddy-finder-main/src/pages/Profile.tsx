@@ -31,7 +31,7 @@ const Profile = () => {
   };
 
   const handleSave = () => {
-    // TODO: Implementar salvamento via API quando Supabase for conectado
+    // TODO: Implementar salvamento via API
     console.log('Salvando perfil:', formData);
     navigate('/dashboard');
   };
