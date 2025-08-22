@@ -53,7 +53,8 @@ O **UniRoom Buddy Finder** é uma aplicação web desenvolvida para ajudar estud
 ## Deploy
 
 ### Aplicação Online
-**Link de Acesso:** https://uniroom-buddy-finder-main-m3q8ymlxs-ayrtons-projects-050d3ee1.vercel.app
+**Link de Acesso Principal:** https://uniroom-buddy-finder-main.vercel.app/
+**Link de Acesso Secundário:** https://uniroom-buddy-finder-main-m3q8ymlxs-ayrtons-projects-050d3ee1.vercel.app
 
 ### Deploy Automático
 - **Frontend:** Vercel (deploy automático via GitHub)
