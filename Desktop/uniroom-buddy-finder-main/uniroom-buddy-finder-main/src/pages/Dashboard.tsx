@@ -60,6 +60,15 @@ const Dashboard = () => {
       course: 'Arquitetura',
       type: 'procura_apartamento',
       initials: 'MS'
+    },
+    {
+      id: 6,
+      name: 'Lucas Lima',
+      city: 'Curitiba',
+      university: 'PUC-PR',
+      course: 'Engenharia Civil',
+      type: 'procura_apartamento',
+      initials: 'LL'
     }
   ];
 

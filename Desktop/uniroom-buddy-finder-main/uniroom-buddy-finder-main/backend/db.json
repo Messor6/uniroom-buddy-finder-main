@@ -1,8 +1,8 @@
 {
   "users": [
     {
-      "name": "teste",
-      "email": "teste@backend.com",
+      "name": "teste1",
+      "email": "teste1@backend.com",
       "city": "Porto Alegre",
       "university": "PUCRS",
       "course": "Desenvolvimento Full Stack",
@@ -15,6 +15,14 @@
       "university": "FGV",
       "course": "Economia",
       "id": 1752624331424
+    },
+    {
+      "name": "Ayrton Schmitz Busse",
+      "email": "ayrtonschmitz@PUCRSTCC.com",
+      "city": "Porto Alegre",
+      "university": "PUCRS",
+      "course": "Desenvolvimento Full Stack",
+      "id": 1752630993128
     }
   ]
 }
