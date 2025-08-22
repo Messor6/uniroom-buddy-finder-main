@@ -63,8 +63,10 @@ docker start mongodb
 
 5. **Atualizar .env:**
 ```env
-MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/uniroom-buddy-finder
+MONGODB_URI=mongodb+srv://<SEU_USUARIO>:<SUA_SENHA>@<SEU_CLUSTER>.mongodb.net/uniroom-buddy-finder
 ```
+
+> ⚠️ **IMPORTANTE:** Substitua `<SEU_USUARIO>`, `<SUA_SENHA>` e `<SEU_CLUSTER>` pelos seus dados reais do MongoDB Atlas.
 
 ## 🚀 Iniciando o MongoDB Local
 
@@ -129,8 +131,10 @@ MONGODB_URI=mongodb://localhost:27017/uniroom-buddy-finder
 ### 3. Com MongoDB Atlas
 ```env
 # .env
-MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/uniroom-buddy-finder
+MONGODB_URI=mongodb+srv://<SEU_USUARIO>:<SUA_SENHA>@<SEU_CLUSTER>.mongodb.net/uniroom-buddy-finder
 ```
+
+> ⚠️ **SEGURANÇA:** Nunca commite credenciais reais no Git!
 
 ## 🌱 Populando com Dados de Teste
 
